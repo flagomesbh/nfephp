@@ -190,13 +190,13 @@ ATENÇÃO!!! Vários endereços destes webservices ainda não foram totalmente
   <UF>
     <sigla>MG</sigla>
     <homologacao>
-       <NfeAutorizacao method="nfeAutorizacaoLote" operation="NfeAutorizacao" version="3.10"></NfeAutorizacao>
-       <NfeRetAutorizacao method="nfeRetAutorizacaoLote" operation="NfeRetAutorizacao" version="3.10"></NfeRetAutorizacao>
-       <NfeInutilizacao  method="nfeInutilizacaoNF2" operation="NfeInutilizacao2" version="3.10"></NfeInutilizacao>
-       <NfeConsultaProtocolo method="nfeConsultaNF2" operation="NfeConsulta2" version="3.10"></NfeConsultaProtocolo>
-       <NfeStatusServico method="nfeStatusServicoNF2" operation="NfeStatusServico2" version="3.10"></NfeStatusServico>
-       <RecepcaoEvento  method="nfeRecepcaoEvento" operation="RecepcaoEvento" version="1.00"></RecepcaoEvento>
-       <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100"></NfeConsultaQR>
+       <NfeAutorizacao method="nfeAutorizacaoLote" operation="NfeAutorizacao" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeAutorizacao4</NfeAutorizacao>
+       <NfeRetAutorizacao method="nfeRetAutorizacaoLote" operation="NfeRetAutorizacao" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeRetAutorizacao4</NfeRetAutorizacao>
+       <NfeInutilizacao  method="nfeInutilizacaoNF2" operation="NfeInutilizacao2" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeInutilizacao4</NfeInutilizacao>
+       <NfeConsultaProtocolo method="nfeConsultaNF2" operation="NfeConsulta2" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeConsultaProtocolo4</NfeConsultaProtocolo>
+       <NfeStatusServico method="nfeStatusServicoNF2" operation="NfeStatusServico2" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeStatusServico4</NfeStatusServico>
+       <RecepcaoEvento  method="nfeRecepcaoEvento" operation="RecepcaoEvento" version="4.00">https://hnfce.fazenda.mg.gov.br/nfce/services/NFeRecepcaoEvento4</RecepcaoEvento>
+       <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="2">https://nfce.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml</NfeConsultaQR>
        <NfeConsultaCadastro method="consultaCadastro2" operation="NfeConsultaCadastro" version="3.10"></NfeConsultaCadastro>
        <NfeConsultaDest method="nfeConsultaNFDest" operation="NfeConsultaDest" version="3.10"></NfeConsultaDest>
        <NfeDownloadNF method="nfeDownloadNF" operation="NfeDownloadNF" version="3.10"></NfeDownloadNF>
@@ -204,13 +204,13 @@ ATENÇÃO!!! Vários endereços destes webservices ainda não foram totalmente
        <NfeStatusEPEC method="nfeStatusServicoNF2" operation="NfeStatusServico2" version="3.10"></NfeStatusEPEC>       
     </homologacao>
     <producao>
-       <NfeAutorizacao method="nfeAutorizacaoLote" operation="NfeAutorizacao" version="3.10"></NfeAutorizacao>
-       <NfeRetAutorizacao method="nfeRetAutorizacaoLote" operation="NfeRetAutorizacao" version="3.10"></NfeRetAutorizacao>
-       <NfeInutilizacao  method="nfeInutilizacaoNF2" operation="NfeInutilizacao2" version="3.10"></NfeInutilizacao>
-       <NfeConsultaProtocolo method="nfeConsultaNF2" operation="NfeConsulta2" version="3.10"></NfeConsultaProtocolo>
-       <NfeStatusServico method="nfeStatusServicoNF2" operation="NfeStatusServico2" version="3.10"></NfeStatusServico>
-       <RecepcaoEvento  method="nfeRecepcaoEvento" operation="RecepcaoEvento" version="1.00"></RecepcaoEvento>
-       <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="100"></NfeConsultaQR>
+       <NfeAutorizacao method="nfeAutorizacaoLote" operation="NfeAutorizacao" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeAutorizacao4</NfeAutorizacao>
+       <NfeRetAutorizacao method="nfeRetAutorizacaoLote" operation="NfeRetAutorizacao" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeRetAutorizacao4</NfeRetAutorizacao>
+       <NfeInutilizacao  method="nfeInutilizacaoNF2" operation="NfeInutilizacao2" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeInutilizacao4</NfeInutilizacao>
+       <NfeConsultaProtocolo method="nfeConsultaNF2" operation="NfeConsulta2" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeConsultaProtocolo4</NfeConsultaProtocolo>
+       <NfeStatusServico method="nfeStatusServicoNF2" operation="NfeStatusServico2" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeStatusServico4</NfeStatusServico>
+       <RecepcaoEvento  method="nfeRecepcaoEvento" operation="RecepcaoEvento" version="4.00">https://nfce.fazenda.mg.gov.br/nfce/services/NFeRecepcaoEvento4</RecepcaoEvento>
+       <NfeConsultaQR method="QR-CODE" operation="NfeConsultaQR" version="2">https://nfce.fazenda.mg.gov.br/portalnfce/sistema/qrcode.xhtml</NfeConsultaQR>
        <NfeConsultaCadastro method="consultaCadastro2" operation="NfeConsultaCadastro" version="3.10"></NfeConsultaCadastro>
        <NfeConsultaDest method="nfeConsultaNFDest" operation="NfeConsultaDest" version="3.10"></NfeConsultaDest>
        <NfeDownloadNF method="nfeDownloadNF" operation="NfeDownloadNF" version="3.10"></NfeDownloadNF>
